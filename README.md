@@ -1,4 +1,4 @@
-# Python Keylogger with Email Reporting
+#Secure-Keystroke-Monitoring-Reporting-Tool
 
 This is a simple keylogger written in Python that captures keyboard inputs and sends a report to a specified email address at regular intervals.
 
